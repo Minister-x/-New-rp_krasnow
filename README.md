@@ -1,6 +1,6 @@
 # -New-rp_krasnow
 
-WARNING FOR CUSTOME TEXTURES
+WARNING FOR CUSTOM TEXTURES
 
 Download everything here, and replace "mappingtextures" in the vmt files (one of the texture files for each) with whatever name you have for your own texture folder. It's super easy. After that put all of the texture files into your texture folder.
 
